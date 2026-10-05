@@ -94,7 +94,7 @@ Collaborated through **Git/GitHub workflows**, submitting changes for team revie
 
 🎓 **BS Computer Science** — *University of Swat* (2026 – 2030)   
 
-💻 **Diploma in Information Technology (DIT)** — *Govt Technical & Vocational Center, Madyan* (2023 – 2024)  
+💻 **Diploma in Information Technology (DIT)** — *Govt Technical & Vocational Center, Madyan* (2024 – 2025)  
 
 
 ## 🏅 Certifications
