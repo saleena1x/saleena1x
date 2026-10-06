@@ -104,9 +104,13 @@ Collaborated through **Git/GitHub workflows**, submitting changes for team revie
 
 
 🧩 [Mastering C# Learn Building Games, Application, Softwares](https://ude.my/UC-62438afe-fd35-42cb-83ca-60a55067f73d)
+
 🌐 [Learn HTML and CSS from Beginning to Advanced](https://ude.my/UC-448d77eb-96b6-4457-91f1-27efd1d43ca9)
-⚡ [JavaScript Projects Course: Build 20 Projects in 20 Days](https://ude.my/UC-79bd1aae-f33a-4e25-a778-cbc36ce9184d)  
+
+⚡ [JavaScript Projects Course: Build 20 Projects in 20 Days](https://ude.my/UC-79bd1aae-f33a-4e25-a778-cbc36ce9184d) 
+
 🎨 [Basics of UX Design](https://uniathena.com/verify/certificate?certID=7740-3900-9703)  
+
 🗂️ [Microsoft Office All-in-One: Excel, Word and PowerPoint](http://ude.my/UC-a654a91f-e6ee-43ff-9c83-8240b10914b8)
 
 
